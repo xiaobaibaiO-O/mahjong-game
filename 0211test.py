@@ -511,3 +511,4 @@ class SichuanMahjong:
 if __name__ == "__main__":
     game = SichuanMahjong()
     game.play_game()
+    
